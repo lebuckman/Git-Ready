@@ -1,3 +1,14 @@
+//
+// Name: 	Buckman, Liam
+// Project: 3
+// Due: 	2023-10-19
+// Course: 	cs-1400-02-f23
+//
+// Description:
+// 			Generate a calendar based on the month and year provided by the user.
+//			Assume valid inputs.
+//
+
 import java.io.*;
 import java.util.Scanner;
 
