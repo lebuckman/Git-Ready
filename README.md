@@ -4,7 +4,7 @@
 
 View my [**GitHub Repository**](https://github.com/lebuckman?tab=repositories).
 
-View my [**Screencast Video**]().  
+View my [**Screencast Video**](https://youtu.be/DTkJ2lXgsjY) via Youtube.  
 
-* Screencast Software: _QuickTime Player_
-* Text Editor: _VS Code_
+* **Screencast Software**: _QuickTime Player (Version 10.5)_
+* **Text Editor**: _VS Code_
